@@ -1,0 +1,18 @@
+#menu ul {
+    display: inline;
+    position: fixed;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+.menu {
+    position: fixed;
+}
+#corpo section{
+    padding-top: 45px;
+}
+#corpo section h1{
+    color:blue 
+}
